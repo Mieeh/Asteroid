@@ -1,0 +1,11 @@
+﻿  Scene.cpp
+c:\skola\årskurs 2\gamedev\asteroid\asteroid\scene.cpp(157): warning C4018: '<' : signed/unsigned mismatch
+c:\skola\årskurs 2\gamedev\asteroid\asteroid\scene.cpp(163): warning C4018: '<' : signed/unsigned mismatch
+c:\skola\årskurs 2\gamedev\asteroid\asteroid\scene.cpp(169): warning C4018: '<' : signed/unsigned mismatch
+c:\skola\årskurs 2\gamedev\asteroid\asteroid\scene.cpp(175): warning C4018: '<' : signed/unsigned mismatch
+c:\skola\årskurs 2\gamedev\asteroid\asteroid\scene.cpp(189): warning C4018: '<' : signed/unsigned mismatch
+c:\skola\årskurs 2\gamedev\asteroid\asteroid\scene.cpp(211): warning C4018: '<' : signed/unsigned mismatch
+c:\skola\årskurs 2\gamedev\asteroid\asteroid\scene.cpp(221): warning C4018: '<' : signed/unsigned mismatch
+c:\skola\årskurs 2\gamedev\asteroid\asteroid\scene.cpp(245): warning C4018: '<' : signed/unsigned mismatch
+c:\skola\årskurs 2\gamedev\asteroid\asteroid\scene.cpp(246): warning C4018: '<' : signed/unsigned mismatch
+  Asteroid.vcxproj -> C:\Skola\Årskurs 2\GameDev\Asteroid\Debug\Asteroid.exe
